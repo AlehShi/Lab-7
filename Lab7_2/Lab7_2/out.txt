@@ -1,0 +1,2 @@
+String 'Line 3' repeats 3 times from line 4
+String '' repeats 2 times from line 7
