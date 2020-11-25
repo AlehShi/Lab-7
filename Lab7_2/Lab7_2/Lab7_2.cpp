@@ -7,7 +7,8 @@ using namespace std; //определяем пространство имен, �
 
 int main()
 {
-    struct OutputResult {
+    struct OutputResult
+    {
         string repeatingLine;
         int countLine;
         int lineNumber;

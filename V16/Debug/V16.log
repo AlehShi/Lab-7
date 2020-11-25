@@ -1,0 +1,4 @@
+﻿  V16.cpp
+D:\Users\O.Shinkevich\source\repos\V16\V16.cpp(33,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\O.Shinkevich\source\repos\V16\V16.cpp(36,35): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  V16.vcxproj -> D:\Users\O.Shinkevich\source\repos\V16\Debug\V16.exe
